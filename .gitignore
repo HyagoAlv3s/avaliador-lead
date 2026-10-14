@@ -1,0 +1,7 @@
+.venv/
+__pycache__/
+.pytest_cache/
+.env
+checkpoints.db*
+resultados.json
+.ultima_execucao

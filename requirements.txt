@@ -1,0 +1,10 @@
+langgraph
+langgraph-checkpoint-sqlite
+langchain-core
+langchain-google-genai
+pandas
+openpyxl
+httpx
+beautifulsoup4
+python-dotenv
+pytest
